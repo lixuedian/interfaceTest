@@ -1,0 +1,236 @@
+2020-12-02 19:18:57,266 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 19:18:57,269 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 19:18:57,269 - logs… - INFO - caseList[]
+2020-12-02 19:18:57,499 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 19:18:57,507 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 19:18:57,515 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 19:22:54,467 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 19:22:54,468 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 19:22:54,470 - logs… - INFO - caseList[]
+2020-12-02 19:22:54,647 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 19:22:54,657 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 19:22:54,664 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 19:45:04,554 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 19:45:04,554 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 19:45:04,554 - logs… - INFO - caseList[]
+2020-12-02 19:45:04,704 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 19:45:04,713 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 19:45:04,721 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 19:46:32,142 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 19:46:32,143 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 19:46:32,143 - logs… - INFO - caseList[]
+2020-12-02 19:46:32,310 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 19:46:32,317 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 19:46:32,325 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 20:08:54,076 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 20:15:46,025 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 20:15:46,034 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 20:15:46,042 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 20:19:51,315 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 20:19:51,315 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 20:19:51,315 - logs… - INFO - caseList[]
+2020-12-02 20:19:51,486 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 20:19:51,493 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 20:19:51,499 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 20:57:01,000 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 20:57:01,001 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 20:57:01,001 - logs… - INFO - caseList[]
+2020-12-02 20:57:52,467 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-02 20:57:52,467 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-02 20:57:52,468 - logs… - INFO - caseList[]
+2020-12-02 20:57:52,683 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 20:57:52,692 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 20:57:52,701 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-02 20:59:01,792 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-02 20:59:01,801 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-02 20:59:01,811 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 10:42:37,229 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 10:42:37,231 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 10:42:37,231 - logs… - INFO - caseList[]
+2020-12-03 14:44:13,975 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 14:44:13,976 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 14:44:13,976 - logs… - INFO - caseList[]
+2020-12-03 15:00:49,041 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 15:02:59,572 - logs… - INFO - {
+  "code": 0,
+  "data": "",
+  "msg": "项目不能为空"
+}
+2020-12-03 15:04:35,960 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:04:35,961 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:04:35,961 - logs… - INFO - caseList[]
+2020-12-03 15:09:39,178 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:09:39,178 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:09:39,178 - logs… - INFO - caseList[]
+2020-12-03 15:11:32,360 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:11:32,360 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:11:32,361 - logs… - INFO - caseList[]
+2020-12-03 15:14:02,837 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:14:02,837 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:14:02,837 - logs… - INFO - caseList[]
+2020-12-03 15:14:03,019 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-03 15:14:03,027 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-03 15:14:03,036 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 15:14:56,550 - logs… - INFO - {
+  "code": 0,
+  "data": "",
+  "msg": "项目不能为空"
+}
+2020-12-03 15:15:56,221 - logs… - INFO - {
+  "code": 0,
+  "data": "",
+  "msg": "项目不能为空"
+}
+2020-12-03 15:42:34,838 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:42:34,838 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:42:34,839 - logs… - INFO - caseList[]
+2020-12-03 15:42:35,158 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-03 15:42:35,171 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-03 15:42:35,184 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 15:43:27,402 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 15:43:27,403 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 15:43:27,403 - logs… - INFO - caseList[]
+2020-12-03 17:58:33,210 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 17:58:33,211 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 17:58:33,211 - logs… - INFO - caseList[]
+2020-12-03 17:59:14,861 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 17:59:14,861 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 17:59:14,861 - logs… - INFO - caseList[]
+2020-12-03 17:59:15,025 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-03 17:59:15,032 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-03 17:59:15,039 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 18:05:21,864 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 18:05:21,864 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 18:05:21,864 - logs… - INFO - caseList[]
+2020-12-03 18:05:22,017 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-03 18:05:22,025 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-03 18:05:22,034 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
+2020-12-03 18:07:03,437 - logs… - INFO - resultPathF:\interfaceTest\interfaceTest\result\report.html
+2020-12-03 18:07:03,438 - logs… - INFO - caseListFileF:\interfaceTest\interfaceTest\caselist.txt
+2020-12-03 18:07:03,438 - logs… - INFO - caseList[]
+2020-12-03 18:07:03,594 - logs… - INFO - {
+  "code": 200,
+  "message": "登录成功"
+}
+2020-12-03 18:07:03,602 - logs… - INFO - {
+  "code": -1,
+  "message": "账号密码错误"
+}
+2020-12-03 18:07:03,609 - logs… - INFO - {
+  "code": 10001,
+  "message": "参数不能为空！"
+}
